@@ -1,0 +1,16 @@
+﻿  TF.cpp
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\SHA265.h(61,91): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\SHA265.h(89,42): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(245,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(270,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(278,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(286,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\BinaryTree.h(44): warning C4715: 'BinaryT<HashEntidad<Movie> *,Movie>::_insertar': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\Pila.h(64): warning C4715: 'Pila<Movie>::top': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\BinaryTree.h(44): warning C4715: 'BinaryT<alphabeticEntity<HashEntidad<Movie> *>,alphabeticEntity<HashEntidad<Movie> *> >::_insertar': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(65): warning C4715: '<lambda_7333bd6997926476da63f4c4a54b6f9f>::operator()': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(77): warning C4715: '<lambda_5236bd1a98a9833aa4ee31850e44275d>::operator()': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(89): warning C4715: '<lambda_30f6a11e29d3d5faf4baa6e9d3a6e99c>::operator()': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\TF\TF.cpp(101): warning C4715: '<lambda_dc82902383038fdfd4952d642b97cfdf>::operator()': no todas las rutas de acceso de control devuelven un valor
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF.vcxproj -> C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\TF\TF\x64\Debug\TF.exe
