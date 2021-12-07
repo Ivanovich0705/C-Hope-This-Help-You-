@@ -45,7 +45,6 @@ void insertarInicio(Tipo e){
   }
 }
 
-//HECHO POR XIOMARA PICON
 void eliminarInicio(){
   if(cantidad>0){
     Nodo<Tipo>* aux=inicio;
@@ -56,7 +55,6 @@ void eliminarInicio(){
 }
 
 
-//HECHO POR XIOMARA PICON
 void eliminarPosicion(int pos){
   if (pos > cantidad)
     return;
@@ -77,7 +75,6 @@ void eliminarPosicion(int pos){
 }
 
 
-//HECHO POR IVAN MORAN
 void reverseList(){
   if(cantidad<=1)
     return;
@@ -98,7 +95,6 @@ void reverseList(){
   }
 }
 
-//HECHO POR FARID IZQUIERDO
 Tipo recuperarPosicion(int pos){
   if (pos >= 0 && pos < cantidad){
     Nodo<Tipo> *aux = inicio;
@@ -111,7 +107,6 @@ Tipo recuperarPosicion(int pos){
 }
 
 
-//HECHO POR JULIO ASILLO
 void insertar(Tipo e) {//O(1)
   Nodo<Tipo>* nuevo = new Nodo<Tipo>(e);
   if (inicio == nullptr) {
@@ -125,7 +120,6 @@ void insertar(Tipo e) {//O(1)
 }
 
 
-//HECHO POR IVAN MORAN
 Tipo rotateList(int k){
 
   if(k<1)
