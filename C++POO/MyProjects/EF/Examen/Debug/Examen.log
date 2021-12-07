@@ -1,0 +1,17 @@
+﻿  Examen.cpp
+C:\Users\PC\source\repos\Final\Examen\Entidad.h(21,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Entidad.h(22,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Personaje.h(15,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Personaje.h(16,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Personaje.h(20,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\MyForm.h(82,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  MyForm.cpp
+C:\Users\PC\source\repos\Final\Examen\Entidad.h(21,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Entidad.h(22,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Personaje.h(15,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Personaje.h(16,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\Personaje.h(20,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Final\Examen\MyForm.h(82,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Examen.vcxproj -> C:\Users\PC\source\repos\Final\Debug\Examen.exe

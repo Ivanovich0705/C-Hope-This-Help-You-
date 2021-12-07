@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Examen.cpp
+C:\Users\PC\Desktop\u201919381\Examen\Entidad.h(21,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Entidad.h(22,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(15,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(16,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(20,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(72,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\MyForm.h(82,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  MyForm.cpp
+C:\Users\PC\Desktop\u201919381\Examen\Entidad.h(21,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Entidad.h(22,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(15,11): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(16,10): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(20,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\Personaje.h(72,1): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\PC\Desktop\u201919381\Examen\MyForm.h(82,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Examen.vcxproj -> C:\Users\PC\Desktop\u201919381\x64\Debug\Examen.exe
