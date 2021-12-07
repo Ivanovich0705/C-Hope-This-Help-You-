@@ -1,0 +1,7 @@
+﻿  PC2.cpp
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\PC2\PC2\PC2\PC2.cpp(147,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\PC2\PC2\PC2\PC2.cpp(149,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\PC2\PC2\PC2\PC2.cpp(542,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\PC2\PC2\PC2\PC2.cpp(45): warning C4715: 'ArbolB<Game>::_insertar': no todas las rutas de acceso de control devuelven un valor
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PC2.vcxproj -> C:\Users\Usuario\OneDrive - Universidad Peruana de Ciencias\Desktop\U\CICLO-4\Algoritmos\PC2\PC2\Debug\PC2.exe
